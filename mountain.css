@@ -1,0 +1,156 @@
+#home {
+    background: url(images/bg_header.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+h1 {
+    font-size: 60px;
+    color: white;
+}
+h2 {
+    font-size: 40px;
+    color: white;
+}
+p{
+    color: white;
+}
+.logo{
+    width: 10vw;
+    height: 10vh;
+}
+.icon {
+    width: 5vw;
+    height: 10vh;
+}
+#triple {
+    text-align: center;
+}
+#about {
+    background: url(images/bg_nuage.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 90vh;
+}
+.boxcloud {
+    background-color: rgba(56, 192, 255,.5);
+    z-index: 4;
+    color:white;
+    margin-left: 50%;
+    height: 90vh;
+}
+.box1 {
+    border: 1px solid white;
+    z-index: 5;
+    padding: 10%;
+}
+.box2 {
+    border: 1px solid white;
+    z-index: 5;
+    padding: 10%;
+}
+.bike img {
+    margin-top: 5%;
+    width: 60%;
+    height: 60%;
+}
+
+.blog1{
+    font-size: 20px;  
+    color: black;
+}
+.Take {
+    background-color: rgb(240, 45, 93);
+    height: 50px;
+    width: 170px;
+    margin-bottom: 5%;
+}
+.camera {
+    background-image: url("images/bg_appareil_photo.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 90vh;
+}
+.boxcloud2 {
+    background-color: rgba(56, 192, 255,.5);
+    z-index: 4;
+    color:white;
+    margin-right: 50%;
+    height: 90vh;
+}
+.grey {
+    background-color: rgb(238, 235, 235);
+    padding: 5%;
+}
+.one {
+    background-image: url("images/300.jpeg");  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10%;
+    height: 100px;
+
+}
+.six {
+    background-image: url("images/776.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10%;
+    height: 431px;
+
+}
+.two {
+    background-image: url("images/800.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10%;
+    height: 483px;
+
+}
+.three {
+    background-image: url("images/400.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10%;
+    height: 300px;
+
+}
+.four {
+    background-image: url("images/2476.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10%;
+    height: 200px;
+
+}
+.five {
+    background-image: url("images/140.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10%;
+    height: 150px;
+}
+.seven {
+    background-image: url("images/439.jpeg"); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10%;
+    height: 150px;
+}
+#footer {
+    background-image: url("images/bg_newsletter.jpg");
+}
+#text-footer{
+    margin-left: 5%;
+}
+#yourlogo{
+    background-color: rgb(38, 40, 75);
+    background-size: cover;
+    width: 100vw;
+}
